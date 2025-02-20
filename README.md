@@ -1,33 +1,45 @@
-# Cybersecurity Portfolio 🔒
-🚀 Showcasing My Cybersecurity Skills, Projects, and Expertise
+# **Cybersecurity Portfolio 🔒**  
+🚀 *Showcasing My Cybersecurity Skills, Projects, and Research*  
 
-This repository contains my personal cybersecurity portfolio website, designed to demonstrate my expertise, hands-on projects, and technical knowledge in information security. It serves as a hub for my cybersecurity research, penetration testing write-ups, security insights, and educational content.
+Welcome to my **Cybersecurity Portfolio** repository! This serves as a hub for my **security research, penetration testing projects, Capture The Flag (CTF) write-ups, vulnerability assessments, and educational content** in information security.  
 
-🌟 Features & Highlights
+## 🌟 **Features & Highlights**  
+✅ **About Me** – My journey into cybersecurity, career goals, and certifications  
+✅ **Projects & Case Studies** – Hands-on penetration testing, security assessments, and research-based projects  
+✅ **Write-ups & Tutorials** – CTF solutions, security blog posts, and step-by-step technical guides  
+✅ **Certifications & Skills** – Achievements from **TryHackMe, CompTIA, Forage, and more**  
+✅ **Contact & Networking** – Links to my **LinkedIn, GitHub, TryHackMe, and other professional profiles**  
 
-✅ About Me – My journey into cybersecurity, career goals, and certifications
+## 📂 **Project Showcase**  
+Here are some of the key projects & security assessments I have worked on:  
 
-✅ Projects & Case Studies – Hands-on penetration testing, security assessments, and research-based projects
+### 🔹 **Penetration Testing & CTF Write-ups**  
+- 🛡️ **TryHackMe & Hack The Box Walkthroughs** – Write-ups for various penetration testing labs  
+- 🏴‍☠️ **Web Application Security** – OWASP Top 10 vulnerabilities, Burp Suite, SQL Injection, XSS  
+- 💀 **Active Directory & Privilege Escalation** – Enumeration, attacks, and defenses in Windows/Linux  
 
-✅ Write-ups & Tutorials – CTF solutions, security blog posts, and step-by-step technical guides
+### 🔹 **Security Research & Threat Analysis**  
+- 🔍 **Incident Response Case Studies** – Analysis of real-world cybersecurity incidents  
+- 🕵🏾‍♂️ **Threat Intelligence & Malware Analysis** – Investigation of cyber threats and attack vectors  
+- 🏗️ **System Hardening & Security Policies** – Implementation of secure configurations and best practices  
 
-✅ Certifications & Skills – Achievements from TryHackMe, CompTIA, Forage, and more
+## 🔧 **Technologies & Tools Used**  
+🖥 **Web & Network Security**: Burp Suite, Nmap, Wireshark, Metasploit  
+📜 **Programming & Scripting**: Python, Bash, PowerShell  
+🔐 **SIEM & Log Analysis**: Splunk, ELK Stack (Elasticsearch, Logstash, Kibana)  
+🔎 **Forensics & Threat Hunting**: Volatility, Autopsy, OSINT tools  
+☁️ **Cloud & Security Governance**: AWS Security, ISO 27001, NIST CSF  
 
-✅ Contact & Networking – Links to my LinkedIn, GitHub, TryHackMe, and other professional profiles
+## 🔗 **Live Portfolio Website**  
+📌 **Visit My Cybersecurity Portfolio:** [🔗 Click Here](https://akuyatehjnr.github.io/cybersecurity-portfolio/)  
 
-🔧 Technologies Used
+## 📬 **Let's Connect!**  
+💼 [LinkedIn](https://www.linkedin.com/in/abdul-kuyateh)  
+🐙 [GitHub](https://github.com/akuyatehjnr)  
+📧 Email: *akuyatehjnr1988@gmail.com*
 
-🖥 HTML, CSS, JavaScript – Website structure, styling, and interactivity
+---  
+🔹 *This repository is continuously updated with new projects, write-ups, and cybersecurity research!* 🚀  
 
-🌍 GitHub Pages – Free hosting and continuous deployment
 
-📝 Markdown & Jekyll – Blog functionality and easy content management
-
-📱 Bootstrap – Responsive design for seamless viewing on all devices
-
-🔗 Live Website
-
-📌 Visit My Cybersecurity Portfolio
-
-📧 Want to connect? Feel free to reach out via my portfolio!
 
